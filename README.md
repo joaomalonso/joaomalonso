@@ -1,9 +1,6 @@
-<div>
-  <div align="right">
-      <img src="https://raw.githubusercontent.com/gist/joaomalonso/c673ed65a5aadbdb9f0bde05e946b514/raw/d4d25bd9c6456336624d848defc18e562642b206/githubcardjp.svg"\>
-  </div>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/joaomalonso/c673ed65a5aadbdb9f0bde05e946b514/raw/d4d25bd9c6456336624d848defc18e562642b206/githubcardjp.svg"/>
 
-  <div align="left">
+<div align="left">
     
 ## Olá, como vai? Jp aqui! 😎
 
